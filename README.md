@@ -1,2 +1,2 @@
-# Tictactoe1
+# TictactoeW1
 Created with CodeSandbox
